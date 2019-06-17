@@ -1,0 +1,8 @@
+C:\Users\roger\source\repos\ShoppingListManager\ShoppingListManager\bin\Debug\ShoppingListManager.exe.config
+C:\Users\roger\source\repos\ShoppingListManager\ShoppingListManager\bin\Debug\ShoppingListManager.exe
+C:\Users\roger\source\repos\ShoppingListManager\ShoppingListManager\bin\Debug\ShoppingListManager.pdb
+C:\Users\roger\source\repos\ShoppingListManager\ShoppingListManager\obj\Debug\ShoppingListManager.csprojAssemblyReference.cache
+C:\Users\roger\source\repos\ShoppingListManager\ShoppingListManager\obj\Debug\ShoppingListManager.csproj.CoreCompileInputs.cache
+C:\Users\roger\source\repos\ShoppingListManager\ShoppingListManager\obj\Debug\ShoppingListManager.exe
+C:\Users\roger\source\repos\ShoppingListManager\ShoppingListManager\obj\Debug\ShoppingListManager.pdb
+C:\Users\roger\source\repos\ShoppingListManager\ShoppingListManager\bin\Debug\Class.bin
